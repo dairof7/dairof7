@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/dairo-facundo/](https://www.linkedin.com/in/dairo-facundo/)
 
-- 💬 Ask me about **Python, C, React JS**
+- 💬 Ask me about **Python, C**
 
 - 📫 How to reach me **dairof7@gmail.com**
 
