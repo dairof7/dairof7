@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dairo</h1>
 <h3 align="center">Full Stack Software Developer | Electronic Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dairof7&label=Profile%20views&color=0e75b6&style=flat" alt="dairof7" /> </p>
+
 - 🔭 I’m currently working on [Bomberbor MVP](https://github.com/untalsebastianb/bomberbot_project)
 
 - 🌱 I’m currently learning **JavaScript, React JS, Python, Django, Docker**
@@ -13,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@dfacundo2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@dfacundo2" height="30" width="40" /></a>
+<a href="https://twitter.com/dfacundo2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dfacundo2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dairo-facundo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dairo-facundo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dairof7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dairof7" height="30" width="40" /></a>
 </p>
