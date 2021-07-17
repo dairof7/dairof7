@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dairo</h1>
 <h3 align="center">Full Stack Software Developer | Electronic Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dairof7" alt="dairof7" /></a> </p>
 
 - 🔭 I’m currently working on **Hitch App**
 
