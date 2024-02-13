@@ -2,7 +2,7 @@
 <h3 align="center">Back-end Software Developer | Electronic Engineer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Hitch App<br>🌱 I’m currently learning React JS, Python (data science), Django, Docker, SQL<br>📝 I regularly write articles on https://www.linkedin.com/in/dairo-facundo/<br>💬 Ask me about Python, C, React JS, Django, Pandas<br>📫 How to reach me dairof7@gmail.com
+🔭 I’m currently working on Hitch App<br>🌱 I’m currently learning React JS, Python (data science), Django, Docker, SQL<br>📝 I regularly write articles on https://www.linkedin.com/in/dairo-facundo/<br>📫 How to reach me dairof7@gmail.com
 
 
 ## 🌐 Socials:
